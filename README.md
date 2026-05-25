@@ -22,7 +22,6 @@ I'm a passionate tech enthusiast driven by curiosity and a love for data. I thri
 
 - 🎓 Exploring the depths of **Artificial Intelligence** and **Data Science**
 - 💡 I turn raw data into actionable insights using **Python & SQL**
-- 🎥 I love **creating content** that simplifies tech for everyone
 - 🌱 Currently sharpening my **AI & ML fundamentals**
 - ⚡ Fun fact: I believe every dataset has a story — I'm here to tell it
 - 🌍 Based in India, dreaming globally 🌏
@@ -36,7 +35,6 @@ I'm a passionate tech enthusiast driven by curiosity and a love for data. I thri
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🗄️ Databases & Backend
