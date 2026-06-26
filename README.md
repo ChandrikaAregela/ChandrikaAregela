@@ -1,122 +1,127 @@
-<!-- Visitor Counter -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ChandrikaAregela&label=Profile%20Views&color=0e75b6&style=flat" alt="ChandrikaAregela" />
-</div>
+# Hi there 👋, I'm Aregela Naga Chandrika
 
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  <h1>Hey there, I'm Aregela Naga Chandrika!</h1>
+### 💻 Aspiring Software Developer | Python Developer | Computer Science Graduate
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%7C+Data+Explorer;Python+%7C+SQL+%7C+Fundamentals+of+AI;Building+Smart+Solutions%2C+One+Line+at+a+Time+%F0%9F%9A%80;Turning+Data+into+Decisions+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
+I'm a Computer Science graduate passionate about building practical software solutions using Python. I enjoy solving problems, learning new technologies, and developing projects that strengthen my programming skills.
 
 ---
 
-<!-- About Me -->
-## 🙋‍♀️ About Me
+## 👩‍💻 About Me
 
-I'm a passionate tech enthusiast driven by curiosity and a love for data. I thrive at the intersection of **AI, data, and creativity** — and I'm on a mission to build meaningful, intelligent solutions.
-
-- 🎓 Exploring the depths of **Artificial Intelligence** and **Data Science**
-- 💡 I turn raw data into actionable insights using **Python & SQL**
-- 🌱 Currently sharpening my **AI & ML fundamentals**
-- ⚡ Fun fact: I believe every dataset has a story — I'm here to tell it
-- 🌍 Based in India, dreaming globally 🌏
+* 🎓 Computer Science Graduate
+* 🌱 Currently learning **Data Structures & Algorithms**, **Flask**, and **Advanced Python**
+* 💡 Interested in Software Development, Python Development, and Backend Development
+* 🚀 Looking for Software Developer and Python Developer opportunities
+* 📍 Hyderabad, India
 
 ---
 
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
-### 🧠 AI / Data
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### Programming Languages
 
-### 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+* Python
+* SQL
+* Object-Oriented Programming (OOPs Concepts)
+* Fundamentals of AI & Generative AI
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
----
+### Tools & Technologies
 
-<!-- Social Links -->
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aregela-naga-chandrika/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ChandrikaAregela" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+* Git
+* GitHub
+* VS Code
+* Flask
+* JSON
+* OOP
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
+## 🚗 Intelligent Parking Space Detection System
+A smart parking management system designed to monitor and manage real-time parking slot availability using cloud-based data synchronization.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandrikaAregela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandrikaAregela&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+Role:
 
-</div>
+Managed parking data and structured data processing
+Developed system logic for parking slot management
+Implemented real-time data updates and validation
+Supported seamless data synchronization with Firebase
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandrikaAregela&theme=tokyonight&hide_border=true" height="180em" />
-</div>
+Technologies: Python, Pandas, Firebase
 
----
+Key Features:
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
+🚘 Real-time parking slot availability tracking
+🔄 Live data synchronization using Firebase
+📊 Structured data processing with Pandas
+✅ Accurate parking slot validation and updates
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChandrikaAregela&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
+### 🍔 Food Ordering Application
 
----
+A Python-based food ordering system built using Object-Oriented Programming concepts with:
 
-<!-- Activity Graph -->
-## 📈 Contribution Graph
+* User Authentication
+* Cart Management
+* Order Processing
+* JSON Data Storage
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandrikaAregela&theme=tokyo-night&hide_border=true" />
-</div>
+### 📝 Quiz Application
 
----
+An interactive quiz application developed using Python featuring:
 
-<!-- Footer -->
-## 🤝 Let's Connect!
+* Multiple Choice Questions
+* Score Tracking
+* JSON-based Question Storage
+* User-friendly Interface
 
-<div align="center">
+### 🌐 Portfolio Website
 
-💬 I'm always open to collaborating on exciting **AI & Data projects**!
-Feel free to reach out — let's build something amazing together. 🚀
-
-  <a href="https://www.linkedin.com/in/aregela-naga-chandrika/" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ChandrikaAregela" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+A personal portfolio website showcasing my skills, projects, certifications, and contact information.
 
 ---
 
-<p><i>"Data is the new oil — and I'm here to refine it." 🔥</i></p>
+## 📜 Certifications
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Right.svg)
+* Python Essentials 1 – Cisco Networking Academy
+* Outskill Generative AI Mastermind Program (2 Days) — Completed 2-day intensive hands-on training in Generative AI concepts, AI workflows, and prompt engineering for   production-ready applications.Gained foundational understanding of LLMs, transformer architecture, and real-world AI application development.
+* Python Programming Certification – Infosys Springboard
+* Data Engineering Course (630 Hours) — Sri Sathya Sai Skill Development Center, Telangana | May 2026 | Technologies: Python, SQL, Artificial Intelligence (AI)
 
-</div>
+
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandrikaAregela\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandrikaAregela\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ChandrikaAregela\&theme=tokyonight)
+
+---
+
+## 🏆 Coding Profiles
+
+* LeetCode
+* GitHub
+* LinkedIn
+
+---
+
+## 📫 Connect With Me
+
+* 📧 [nagachandrikaaregela@gmail.com](mailto:nagachandrikaaregela@gmail.com)
+* 💼 LinkedIn: *https://www.linkedin.com/in/aregela-naga-chandrika*
+
+---
+
+## 💬 Quote
+
+> *"Consistency beats perfection. Every line of code is a step toward becoming a better developer."*
+
+---
+
+⭐ If you like my work, feel free to explore my repositories and connect with me!
